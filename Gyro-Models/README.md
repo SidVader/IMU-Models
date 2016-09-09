@@ -1,0 +1,2 @@
+### This folder contains all files related to the Models of IMU Gyro 
+#### The Noise Model.m is basic model for the Gyro of AUV IIT-KGP IMU, it is based on the following research http://www.cit.iit.bas.bg/cit_2010/v10-2/31-40.pdf 
